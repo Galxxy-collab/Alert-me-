@@ -7,7 +7,7 @@
 <p>Alert Me! does not collect, transmit, or share any personal data. The app does not use analytics, advertising, or tracking technologies of any kind.</p>
 
 <h2>Data Stored on Your Device</h2>
-<p>All reminders you create — including titles, categories, due dates, and repeat settings — are stored locally on your device using Apple's standard on-device storage (UserDefaults). This data:</p>
+<p>All reminders you create (including titles, categories, due dates, and repeat settings) are stored locally on your device using Apple's standard on-device storage (UserDefaults). This data:</p>
 <ul>
   <li>Never leaves your device</li>
   <li>Is not sent to any server operated by us or any third party</li>
