@@ -29,7 +29,7 @@
 <h2>Contact</h2>
 <p>If you have questions about this privacy policy, please contact: <em>eric.ardelean1@gmail.com</em></p>
 
-<footer>Alert Me! — a reminder app for iOS.</footer>
+<footer>Alert Me!</footer>
 
 </body>
 </html>
